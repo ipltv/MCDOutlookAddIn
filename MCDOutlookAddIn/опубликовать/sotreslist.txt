@@ -1,0 +1,590 @@
+11001	MC Pushkin
+11002	MC Ogareva
+11003	MC Arbat
+11004	MC Sokolniki
+11005	MC Prospect Mira
+11006	MC Krasnaya Presnya
+11007	MC Leningradskoe Shosse
+11008	MC Dorogomilovskaya
+11009	MC Yaroslavskoe Shosse
+11010	MC Klimentovsky
+11011	MC Serpukhovskaya
+11012	MC B.Semenovskaya
+11013	MC Maroseyka
+11014	MC Domodedovskaya
+11015	MC Volgogradsky Prospekt
+11016	MC Tushinskaya
+11017	MC Ugo-Zapadnaya
+11018	MC Zelenograd
+11019	MC Shosse Entuziastov
+11020	MC Cherkizovsky
+11021	MC Mozhayskoe Shosse
+11022	MC Kuzminki
+11023	MC Altufievo
+11025	MC Butyrka
+11026	MC Narodnoe Opolchenie
+11027	MC Butovo
+11028	MC Obrucheva
+11029	MC Andropova
+11030	MC Mitino
+11031	MC Milashenkova
+11032	MC Novoslobodskaya
+11033	MC Matveevskaya
+11034	MC Katukova
+11035	MC Maryino
+11036	MC Ryazanskoe Shosse
+11037	MC Ram 2 Sheremetievskaya
+11038	MC Chistye Prudy
+11040	MC Borovskoe Shosse
+11041	MC Dvorets Molodezhi
+11042	MC Sukharevskaya
+11043	MC Taganka
+11045	MC Dmitrovskoe Shosse
+11047	MC Novogireevo
+11048	MC Polezaevskaya
+21001	SP Kamennoostrovsky
+21002	SP Primorskoe Shosse
+21004	SP Vasilyevsky Ostrov
+21005	SP Moskovsky Prospect
+21006	SP Bolshaya Morskaya
+21007	SP Zagorodnoe Shosse
+21008	SP Nevsky Prospekt
+21009	SP Okey 1 Pr. Zhukova
+21010	SP Chernaya Rechka
+21011	SP Ozerki
+21012	SP Kirovsky
+21013	SP Ok 2 Prospect Kosmonavtov
+21014	SP TC Sennaya
+21015	SP Komendantskaya
+21016	SP Macromir-Leninski
+21017	SP Prospekt Slavy
+21018	SP Izmailovskiy
+21019	SP MasSHTAB
+21020	SP Yuzhniy Polyus
+21021	SP Rubin
+21022	SP Ram Udelny Park
+21023	SP Akademicheskaya
+21024	SP Zanevskiy Kaskad
+21026	SP Garden City-Lakhta
+21027	SP London Moll
+21028	SP Lenta-Shushary
+21029	SP Lenta Tallinskoe sh.
+21030	SP Varshavskiy Express
+21031	LR Novo-Devyatkino
+21032	SP Baikonurskaya
+21033	SP Merkuriy
+21034	SP Obvodnoy kanal
+21035	SP Zvezdnyi
+21036	SP Dybenko
+21037	SP Hotel Moskva
+21038	LR Mega-Parnas
+21040	LR Mega Dybenko FC
+21041	SP Rybatskoe
+21042	SP Noviy Okkervil
+21043	SP Fonika
+21044	SP Blukhera
+21046	LR Kingisepp
+21047	LR Gatchina OK-5
+21048	SP Vyborgskoe Metrika
+21049	SP Rodeo Draiv
+21050	SP Narodnaya
+21051	SP Kolpino
+21052	SP Udelnaya
+21053	SP Leto
+21054	SP Galereya
+21055	SP Industrialny
+21057	SP Kontinent Stachek
+21058	SP Rubikon
+21059	SP Okey Prosvecheniya
+21060	SP Lenta Obuchovskaya
+21062	SP RIO Kupchino
+21064	SP Shkiperskiy Mall
+21067	SP Sever
+21068	SP OK Elektrosila
+21069	SP Bukharestskaya FC
+21070	SP Kontinent Zvezdniy
+21071	SP Balkania Nova
+21072	SP Zhemchuzhnaya Plaza
+21073	SP Gorelovo
+21074	SP Pyat Ozer
+21075	LR Sosnovyi Bor
+21077	SP OK-6 Yahtennaya
+21079	SP Evropolis
+21082	SP Smayl
+21084	LR Vyborg Kubus
+21086	LR Murino
+21088	SP Atmosfera
+21090	SP Nord
+21091	SP Kolpino-Oka
+21092	SP Okhta mall
+21093	SP OK-7 Partizana Germana
+21094	SP Stockman
+21095	SP Pionerskaya
+21096	SP PIK
+21097	SP Perinnie ryady
+21105	SP City Mall New 
+21201	VN V. Novgorod Octyabrskaya
+21202	VN V.Novgorod Peterburgskaya
+21301	KA Kaliningrad Europa
+21302	KA Kaliningrad Severny vokzal
+21305	KA Yuzhniy Vokzal
+21801	AR Arkhangelsk Zolotaya Milya
+21802	AR Arkhangelsk Titan Arena
+21803	AR Severodvinsk City
+21804	AR Arhangelsk Dvina
+21805	AR Arkhangelsk Maxi
+23001	NN Gorkogo Square
+23002	NN Revolutsy Square
+23003	NN Vedenyapina Street
+23004	NN Mega
+23005	NN Gagarinsky
+23006	NN Dzerzhinsk
+23007	NN RIO Nizhniy Novgorod
+23008	NN Medvezhya Dolina
+23010	NN Kstovo
+23012	NN Nizhniy Novgorod Zhar Ptiyca
+23013	NN N.Novgorod 7 nebo
+23015	NN N.Novgorod Leninskaya
+23017	NN Naberezhnaya
+23018	NN N.Novgorod Zolotaya Milya
+23019	NN Nigniy Novgorod Zarechnaya
+23020	NN Krym
+23022	NN Nebo
+23201	PT Petrozavodsk Maksi
+23202	PT Petrozavodsk Sigma
+24001	MR Mytishchi
+24002	MR Lyubertsy
+24003	MR Odintsovo
+24004	MR Krasnogorsk
+24005	MC Troitsk
+24006	MR Klin
+24007	MR Autogarant
+24008	MR Balashikha
+24009	MR Naro-Fominsk
+24010	MR Khimki
+24011	MR Sergiev Posad
+24012	MR Schelkovo
+24013	MR Dmitrov
+24014	MR Tvoy Dom
+24015	MR Podolsk
+24016	MR Reutov
+24017	MR Pushkino
+24018	MC IKEA Mega
+24019	MR Kolomna 1
+24020	MR SM-Kvadrat
+24021	MR Ram 7 Podolsk
+24022	MR Elektrostal
+24023	MR Solnechnogorsk
+24024	MR Ramenskoe
+24025	MR Waymart
+24026	MC Dubrovka
+24027	MR Mega Khimki
+24029	MR Lesnoy Minskoe sh.
+24030	MR Stupino
+24031	MR Noginsk TC
+24032	MR Mytishi-Plaza
+24033	MR Balashikha Svetofor
+24034	MR Rio Reutov
+24035	MR Perlovka
+24036	MR Bronnitsy
+24037	MR Kolomna Kado
+24039	MR Mega Belaya Dacha
+24040	MC Mosmart Borovskoe
+24041	MR Egorievsk
+24042	MR Sergiev Posad 2
+24043	MR Ermolino
+24044	MR Lobnya Lenina
+24045	MR Shatura
+24046	MR Serpukhov
+24047	MR Volokolamsk TC Centr Goroda
+24049	MR Lyubertsy TC Grenada
+24050	MR Kashira
+24051	MR Lukhovitsy
+24053	MR Domodedovo city
+24055	MR Lyubertsy Pobratimov
+24056	MR Nosovikhinskoe sh.
+24057	MR Lyubertsy GAI
+24058	MR MKAD 3 km
+24059	MR Balashiha Lenina
+24060	MR Chekhov Moskovskaya
+24061	MR Klimovsk
+24062	MR Lytkarino
+24063	MR Serpukhov Korston
+24065	MR Gorkovskoe sh. 51 km
+24068	MR Odinzovo Vokzal
+24072	MR Dzerjinsky
+24073	MR Mozhaisk Pavlovo
+24074	MR Mytishi Magistral
+24075	MR Pavlovo Podvorie
+24076	MR Pavshino
+24077	MR Zvenigorod
+24078	MR TC Vegas
+24079	MR Electrostal Koreshkova
+24080	MR Dmitrov Centr TC
+24081	MR Orekhovo-Zuevo Kapitoliy
+24083	MR Octyabrskiy
+24085	MR Pavlovski Posad
+24086	MR Simferopolskoe sh.
+24087	MR Fryazino
+24088	MR Korolev Kosmonavtov
+24089	MR Malakhovka
+24090	MR Dubna
+24091	MR Korolev Status
+24092	MR Dubki
+24094	MR Idea Novoskhodnenskoe
+24095	MR Krasnogorsk Otrada
+24096	MR Ivanteevka
+24097	MR Krasnogorsk Karamel
+24098	MR Vinogradovo
+24101	YR Ploschad Truda
+24102	YR Moskovsky Prospect
+24103	YR Leningradsky Prospekt
+24104	YR Aviatorov
+24105	YR Universitet
+24106	YR Rybinsk Prospekt Lenina
+24107	YR Yaroslavl Aura
+24201	VR Voronezh, Revolutsii
+24202	VR Voronezh, Lizyukova
+24203	VR Voronezh, Dimitrova
+24204	VR Voronezh, Patriotov
+24207	BL Belgorod city mall
+24208	VR Voronezh Chizhova
+24209	BL Belgorod Avtovokzal
+24210	BL Belgorod Grinn
+24211	VR Voronezh Arena
+24213	VR Voronezh Maksimir
+24214	VR Voronezh Grad
+24215	VR Voronezh Moskovsky
+24216	BL Stariy Oskol Boshe
+24219	VR Voronezh Rai
+24220	VR Voronezh Ostugeva
+24224	VR Voronezh 9 Yanvarya
+24225	BL Belgorod Centralniy
+24301	LP Lipetsk Pr. 60 let USSR
+24302	LP Yeletc Moskovskoe
+24304	LP Lipetsk Evropa
+24401	MC Otradnoe
+24402	MC Ladozhskaya
+24403	MC Annino
+24404	MC VDNKH
+24405	MC XL
+24406	MC Manezh
+24407	MC Ram 5 Belyaevo
+24408	MC Ram 6 Leningradsky
+24409	MC Vavilova
+24410	MC Giper Center
+24411	MC Tulskaya
+24412	MC Bratislavskaya
+24413	MC Kaluzhskaya TC
+24414	MC Novye Cheremushki
+24415	MC Global City
+24416	MC Medvedkovo
+24417	MC Ryazanskiy TC
+24418	MC Varshavskiy TC
+24419	MC Veshnyaki
+24420	MC Bibirevo
+24421	MC Golyanovo
+24422	MC Ram Sevastopolski 
+24423	MC Europark
+24424	MC RIO TC
+24425	MC Yuzhnoe Butovo TC
+24426	MC Alekseevskaya
+24428	MC Yuzhnaya
+24429	MC Michurinskiy BIN
+24430	MC Ram Universitet
+24431	MC Shukinskaya
+24432	MC Altufevskoe Shosse Uley
+24433	MC Alye Parusa TC
+24435	MC Bagrationovskaya
+24436	MC TC Ugo-Zapadnaya 2
+24437	MC Kashirskoe sh. 12
+24438	MC Andropova TC
+24440	MC Retail Park
+24441	MC Chas Pik
+24443	MC Teplyi Stan
+24444	MC Bratislavskaya 2
+24445	MC Prazhskaya TC
+24446	MC Tulskaya TC (Erevan Plaza)
+24447	MC Rechnoy Vokzal
+24448	MC Gorod-2
+24449	MC Gudzon
+24450	MC Zelenograd Iridium
+24451	MC Fenix Zhulebino
+24454	MC RIO Dmitrovskoe 
+24456	MC Kaleydoskop TC
+24457	MC Metro Dubrovka
+24458	MC Zolotoy Vavilon
+24460	MC Konkovo
+24464	MC Galery Vodoley
+24465	MC TC Zig Zug
+24467	MC Miklukho-Maklaya
+24468	MC TC Parus
+24469	MC Afimall
+24470	MC Prince Plaza
+24472	MC Sviblovo
+24473	MC VVTS
+24474	MC Mango Panfilovtsev
+24477	MC Avtozavodskaya
+24478	MC Sergya Radonezhskogo
+24482	MC Lublinskaya 66
+24484	MC Butovo Krug
+24485	MC Chukotka
+24486	MC Ostankinskiy TC
+24487	MC Ramenki
+24488	MC Brateevo Moll
+24490	MC Moskvorechie
+24491	MC Aventura
+24492	MC Kahovskaya Berlin
+24493	MC Chongarskaya
+24494	MC 5 Avenu
+24496	MC Vodniy
+24497	MC TC Klen
+24498	MC Lipetskay
+24499	MC Aviapark
+24501	TV Tver Turist
+24502	TV Tver Mojayskaya
+24503	TV Tver Moskovskaya
+24505	SM Smolensk
+24506	TV Vyshniy Volochek
+24507	TV Zavidovo
+24508	SM Smolensk Maksi
+24601	TL Tula Arsenalnaya
+24602	TL Avtovokzal
+24603	TL Tula Gostiniy Dvor
+24604	TL Novomoskovsk
+24605	TL Tula Maksi
+24606	TL Tula Krasnoarmeyskaya
+24701	KL Kaluga Tashyr
+24702	KL Obninsk Univermag
+24703	KL Obninsk Kievskoe shosse
+24704	KL Kaluga Sun-Mart
+24801	RZ Victory Plaza
+24802	RZ Kruiz
+24803	RZ Ryazan Novoselov
+24804	RZ Avtovokzal
+24805	RZ Premier
+24901	IV Ivanovo Topol
+24902	IV Ivanovo Kristall
+24904	IV Ivanovo Lenina
+24905	IV Ivanovo Serebryaniy Gorod
+24906	IV Ivanovo Yasen
+25101	SA Samara Polevaya St
+25102	SA Samara Aurora
+25103	SA Samara Zagora
+25105	SA Samara Moskovskoe sh
+25106	SA Toliatti Madagaskar
+25107	SA Samara Mega
+25109	SA Toliatti Komsomolskaya
+25110	SA Toliatti 40 Let Pobedy
+25111	SA Sizran Mongora
+25112	SA Tolyatti Park House
+25113	SA Samara Mega City
+25115	SA Samara Kosmoport
+25116	SA Novokuibishevsk Sverdlova
+25117	SA Samara Ambar
+25118	SA Tolyatti Gromovoy
+25119	SA Samara Park House
+25120	SA Samara Ujniy Gorod
+25121	SA Samara Revolutcionnaya
+25122	SA Samara Avrora Mall
+25123	SA Samara Viva Land
+25124	SA Samara Gudok
+25201	SR Saratov Kirova
+25202	SR Saratov Chernyshevskogo
+25204	SR Engels Telmana
+25205	SR Saratov Oranzheviy
+25206	SR Saratov Solnechniy
+25207	SR Saratov TAU Galereya
+25209	SR Balakovo Rokot
+25401	VG Volgograd KinoMaks
+25402	VG Voljsky Mira
+25403	VG Volgograd Engelsa
+25404	VG Volgograd Opolchenskaya
+25405	VG Volgograd Dzerjinskiy
+25407	VG Volgograd Komsomol
+25408	VG Volgograd Akvarel
+25409	VG Volgograd Hirosimy
+25411	VG Volgograd Istoricheskaya
+25415	VG Volgograd Park House
+25416	VG Volgograd Shtemenko
+25417	VG Volgograd Kurchatova
+25418	VG Volgograd Mozdokskaya
+25501	KO Kostroma
+25502	KO RIO Kostroma
+25602	BR Bryansk BUM
+25603	BR Bryansk Kurgan
+25604	BR Bryansk Aeropark
+25707	AS Astrakhan TSUM
+25708	AS Astrakhan Barbusa
+25709	AS Astrakhan Yarmarka
+25801	PZ Penza Suvorovskiy TC
+25803	PZ Penza Moskovsky
+25804	PZ Penza Stroiteley
+26001	RR Rostov Don, B.Sadovaya
+26002	RR Rostov Don, Kosmonavtov
+26003	RR Novocherkassk
+26004	RR Rostov Don, Voroshilovskiy
+26005	RR Rostov Don, Piramida
+26006	RR Rostov Don - Mega
+26008	RR Megamag
+26010	RR Rostov Dovatorov
+26011	RR Rostov Zolotoy Vavilon
+26012	RR Rostov Gorizont
+26013	RR Shakhty Avrora
+26014	RR Taganrog Gogolevskiy
+26015	RR Rostov Almaz
+26016	RR Taganrog Marmelad
+26017	RR Aksay Svetofor
+26018	RR Rostov Progress
+26019	RR Rostov Naberezhnaya
+26020	RR Rostov Teatralniy
+26022	RR Rostov Zapadniy
+26025	RR Rostov Yantarniy
+26026	RR Rostov Dvorets Tvortchestva
+26027	RR Rostov Park
+26101	KR Sochi-1
+26104	KR Sochi Mandarin
+26105	KR Sochi Roza Khutor
+26106	KR Sochi Kvartal
+26108	KR Sochi Morskaya Zvezda
+26109	KR Sochi Moremall
+26201	KR Krasnodar Krasnaya Pl.
+26202	KR Mega Adygeya
+26203	KR Novorossiysk Magistralnaya
+26205	KR Krasnodar SBS
+26206	KR Krasnaya Skver
+26207	KR Krasnodar SBS Mall
+26208	KR Krasnodar OZ Mall
+26210	KR Armavir Krasnaya Ploshad
+26211	KR Gelendgik Platanovaya Alleya
+26213	KR Maykop Chkalova
+26216	KR Krasnodar Krasnaya Pl. Mall
+26217	KR Maikop Oktyabr
+26218	KR Novorossisk Juzhniy
+26219	KR Krasnodar Moskovskiy
+26220	KR Anapa Anapskoe sh
+26222	KR Krasnodar Sormovskaya
+26223	KR Novorossiysk Zapadniy
+26224	KR Krasnodar Fadeeva
+26225	KR Krasnodar Galereya
+26227	KR Krasnodar Centr Goroda
+26231	KR Krasnodar Petra Metalnikova
+26301	ST Pyatigorsk Kalinina
+26302	ST Stavropol Kulakova
+26304	ST Pyatigorsk Beshtay
+26305	ST Stavropol Evropeiskiy
+26306	ST Stavropol Kosmos
+26308	ST Stavropol Perspektivniy
+26401	OR Orel Rio
+26403	OR Orel Mega Grin
+26404	OR Orel Linia 1
+26405	OR Orel Liniya 2
+26406	OR Orel Gostiniy Dvor
+26501	VL Vladimir Gagarina
+26502	VL Petushki
+26503	VL Vladimir Lenina
+26505	VL Pokrov
+26601	UL Ulyanovsk Samolet
+26602	UL Pushkarevskoe koltco
+26603	UL Ulyanovsk Aquamall
+26604	UL Ulyanovsk TSUM
+26701	KU Kursk Tsum
+26702	KU Kursk Studencheskaya
+26703	KU Kursk Evropa FC
+26704	KU Kursk Mega Grinn
+26801	TA Tambov RIO
+26802	TA Tambov Michurinsky
+26803	TA Tambov Akvarel
+26804	TA Tambov Entuziastov
+27501	MO Saransk pl.1000-letiya
+27704	MC Kuncevo Plaza
+27705	MC Merimis
+27706	MC Myasnitskaya
+27707	MC TSDM Detskiy Mir
+27711	MC Krylatskiy
+27712	MC Nora
+27714	MC Veshnyakovskay
+27715	MC Moscow Sokol baltiyskaya
+27716	MC Avenue 61
+27718	MC TC Schelkovskiy
+27719	MC Orange Park
+27720	MC RIO Yugo-Zapad
+27721	MC RIO Kievskiy
+27722	MC Garden Mir
+27723	MC RIO Leninskiy
+27724	MC RIO Raykin Plaza
+27726	MC Zelenograd Stolitca
+27727	MC TC Novoyasenevskiy
+27729	MC 3-ya Parkovaya
+27730	MC Okeaniya TPS
+27731	MC TPS Polezhaevskiy
+27733	MC Kantemirovskaya
+27734	MC Izmaylovskiy Val
+27735	MC Belyaevo Shokolad
+27736	MC Premiera DK
+27737	MC TC Lyublino
+27739	MC Planernaya
+27741	MC Ego Mall
+27742	MC TRC Novomoskovskiy
+27743	MC Tvin Plaza
+27744	MC Krasnii Luch
+27746	MC Mozayka TC
+27749	MC Babushkinskaya
+27750	MC Moskva Kurskaya
+27751	MC Zhulebino TC Milya
+27759	MC Shabolovka
+27760	MC Leninskiy 101
+27761	MC TC Mart
+27762	MC Kotelniki
+27764	MC Columbus
+27766	MC Dinamo VTB Arena
+27768	MC Krasnoselskaya
+27769	MC TC Gavan
+27771	MC Tverskaya Zastava
+27772	MC TC Klever
+27774	MC Galereya Aeroport
+27775	MC Svobodniy 33
+27776	MC Kievskiy
+29010	MR Selyatino
+29011	MR Yahroma
+29012	MR Dolgoprudniy Dirizhabelnaya
+29014	MR Vegas Crocus
+29015	MR Veshki-Vesna
+29016	MR Buzlanovo EKA Novorizhskoe
+29017	MR Reutov Park
+29019	MR Kashirskoe 43
+29022	MR Naro-fominsk 73 km
+29023	MR Ramenskoe Severnoe Shosse
+29024	MR Sergiev Posad Skitskie Prudy
+29025	MR Sergiev Posad Kapitoliy
+29026	MR Dmitrov Professionalnaya
+29028	MR Riga Mall Voronki
+29029	MR Klin Darya
+29030	MR Zhukovskyi Samolet
+29031	MR Lubertsy Octyabrsky
+29032	MR MKAD 26 km Brend City
+29035	MR Zherebyatievo
+29037	MR Zheleznodorogniy
+29038	MR Podolsk Zapadniy
+29050	MR Podolsk Kirova
+29052	MR Mytishi June
+29058	MC Vnukovo Centralnaya
+29059	MR Vegas Kuntsevo
+29060	MR Kurkino Molodezhnaya
+29063	MR Pushkino Globus
+29069	MR Mega Belaya Dacha 2 New
+29099	MR Mytishi-Plaza McKiosk
+29201	MU Murmansk Volna
+29202	MU Murmansk Mall
+29203	MU Murmansk Kolskiy
+29204	MU Murmansk Severnoe Nagornoe
+29205	MU Murmansk Plazma
+29301	VO Cherepovetz Pobedy
+29302	VO Cherepovetz Lenta
+29303	VO Vologda Bivalovo
+29403	PS Pskov Imperial
+29404	PS Velikie Luki - Apelsin
+29502	OM Omsk 30 let VLKSM
+29504	OM Omsk Mega
+29505	OM Omsk Festival
+29507	OM Omsk Mira
